@@ -1,6 +1,6 @@
-### Hi there 👋, Niki Feiz
-#### Data Engineer & Front-End Developer
-![Data Engineer & Front-End Developer]({"a":5,"h":"www.canva.com","c":"DAGCBCYkzMc","i":"9qL-skMaiV5LYBnvcqqT0g","b":1712752920325,"j":[{"A":{"K":{},"D":{},"L":{"A":[{"A":{},"B":"C"},{"A":{},"B":"B"}]},"E":{},"F":{"A":"Identity.png","B":1},"G":{},"H":{"B":"none","C":"#000000","D":"#ffffff"},"J":{"F":"#000000"},"P":{}}}],"A?":"A","A":{"B":{"A":{"A":"MAETg9LHqZI","B":1},"B":{"A":-46.88025110812168,"B":-3205.1770845374485,"D":10129.177084537449,"C":6305.412735124562}}},"B":6912,"C":3456})
+### Hi there 👋, Niki
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://www.canva.com/design/DAGCBCYkzMc/9qL-skMaiV5LYBnvcqqT0g/edit?utm_content=DAGCBCYkzMc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 I am Niki, and I am excited to learn and challenge myself. I began my programming career with web design and completed several courses in that area.Additionally, I began studying data science.Therefore, I completed several Data Science courses at Stanford University, which can be found on my LinkedIn profile.
 
