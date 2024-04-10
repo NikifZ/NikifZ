@@ -14,7 +14,7 @@ Skills: CSS/HTML5/Javascript/Bootstrap/Python/Pandas/Numpy/Matplotlib/Seaborn/ S
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NikifZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/niki-feiz/)  
 
-https://www.canva.com/design/DAGCBJWYu2A/99k4I1btVorcQvsg-Bp_QA/view?utm_content=DAGCBJWYu2A&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 
 
 
