@@ -1,6 +1,6 @@
 ### Hi there 👋, Niki
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://www.canva.com/design/DAGCBCYkzMc/9qL-skMaiV5LYBnvcqqT0g/edit?utm_content=DAGCBCYkzMc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+#### Data Engineer & Front-End Developer
 
 I am Niki, and I am excited to learn and challenge myself. I began my programming career with web design and completed several courses in that area.Additionally, I began studying data science.Therefore, I completed several Data Science courses at Stanford University, which can be found on my LinkedIn profile.
 
