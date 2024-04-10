@@ -1,6 +1,6 @@
 ### Hi there 👋, Niki
 #### Data Engineer & Front_End Developer
-![Banner3](https://github.com/NikifZ/NikifZ/assets/114306869/09efdee3-9c97-42d0-9e4e-bd5e8b948888)
+![Data Science2](https://github.com/NikifZ/NikifZ/assets/114306869/5d179f02-32b1-48be-af65-5df5b75d850d)
 
 I am Niki, and I am excited to learn and challenge myself. I began my programming career with web design and completed several courses in that area.Additionally, I began studying data science.Therefore, I completed several Data Science courses at Stanford University, which can be found on my LinkedIn profile
 
